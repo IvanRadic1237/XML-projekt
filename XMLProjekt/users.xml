@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user id="1">
+    <product>iPhone 15 pro</product>
+    <name>Dobar uređaj ako imate iphone 12 pro ili starije</name>
+    <date>Listopad</date>
+     <video>https://youtu.be/cBpGq-vDr2Y?si=zzluI-ZqBUjjtoV1</video>
+  </user>
+  <user id="2">
+    <product>iPhone 15 pro max</product>
+    <name>Dobar uređaj ako imate iphone 12 pro max ili starije</name>
+    <date>Listopad</date>
+    <video>https://youtu.be/cVpcl7KGly0?si=i_HBJMr2CwsVDGQT</video>
+  </user>
+  <user id="3">
+    <product>iPhone 15 </product>
+    <name>Dobar uređaj ako imate iphone 12 mini ili starije</name>
+    <date>Listopad</date>
+    <video>https://youtu.be/s1XVb4mdELc?si=RjQwVcAhe9jo2KDG</video>
+  </user>
+  <user id="4">
+     <product>iPhone 15 plus</product>
+    <name>Dobar uređaj ako imate iphone 12 ili starije</name>
+    <date>Listopad</date>
+    <video>https://youtu.be/s1XVb4mdELc?si=RjQwVcAhe9jo2KDG</video>
+  </user>
+  <user id="5">
+     <product>iPhone SE</product>
+    <name>Dobar uređaj ako Vam ne smeta stariji dizajn, povoljnija cijena</name>
+    <date>2025.</date>
+    <video>https://youtu.be/QpbGctuHoMY?si=rOc2p_JTTgHPYRi_</video>
+  </user>
+  <user id="6">
+     <product>iPad Pro 11"</product>
+    <name>Izvrstan uređaj s odličnim performansama i zaslonom</name>
+    <date> - </date>
+    <video>https://youtu.be/FgtYq4HcK7g?si=YWejEZJYTPF6cGgB</video>
+  </user>
+  <user id="7">
+     <product>iPad Pro 13"</product>
+    <name>Izvrstan uređaj s odličnim performansama i zaslonom u većoj veličini</name>
+    <date> - </date>
+    <video>https://youtu.be/sRVOt3lHWBI?si=WWD7GAvBXioFNvNy</video>
+  </user>
+  <user id="8">
+     <product>iPad Air 11"</product>
+    <name>Najbolji izbor za većinu korisnika</name>
+    <date> - </date>
+    <video>https://youtu.be/nPH1DZRqSy8?si=1xiZOH_WgJv0kwu8</video>
+  </user>
+  <user id="9">
+     <product>iPad Air 13""</product>
+    <name>Najbolji izbor za većinu korisnika u većoj veličini</name>
+    <date> - </date>
+    <video>https://youtu.be/gI9U9LspRKA?si=5i_Vi0GgctiJqTwg</video>
+  </user>
+  <user id="10">
+     <product>iPad 10.9""</product>
+    <name>Entry level iPad dostupan po nižoj cijeni</name>
+    <date>Kasnije ove godine</date>
+    <video>https://youtu.be/mQD1JiefSxw?si=U1XC1wpUWYG60oa_</video>
+  </user>
+  <user id="11">
+     <product>MacBook Air 13"(M2)</product>
+    <name>Dovoljno sposoban za većinu korisnika, dobra opcija</name>
+    <date> - </date>
+    <video>https://youtu.be/HeMIZC2rkMo?si=rKyuXHMfYVs1a4xM</video>
+  </user>
+  <user id="12">
+     <product>MacBook Air 13"(M3)</product>
+    <name>Najbolja opcija za većinu korisnika, sadrži novi M3 čip</name>
+    <date>2025</date>
+    <video>https://youtu.be/vigdVzMCiTg?si=b3gnlyHOY6vSOweE</video>
+  </user>
+  <user id="13">
+     <product>MacBook Air 15"(M3)</product>
+    <name>Najbolja opcija za većinu korisnika, sadrži novi M3 čip, u većoj veličini</name>
+    <date>2025</date>
+    <video>https://youtu.be/vigdVzMCiTg?si=b3gnlyHOY6vSOweE</video>
+  </user>
+  <user id="14">
+     <product>MacBook Pro 14"(M3/M3 Pro/Max)</product>
+    <name>Dobra opcija ako želite "Pro" uređaj</name>
+    <date>2024</date>
+    <video>https://youtu.be/zJ4EaNuubTE?si=11y8Rijx1ua_u7eA</video>
+  </user>
+  <user id="15">
+     <product>MacBook Pro 16"(M3/M3 Pro/Max)</product>
+    <name>Dobra opcija ako želite "Pro" uređaj, u većoj veličini</name>
+    <date>2024</date>
+    <video>https://youtu.be/ZWgr7qP6yhY?si=KNWuA96q_jjgMjvo</video>
+  </user>
+</users>
